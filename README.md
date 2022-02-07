@@ -4,7 +4,7 @@ altyapı yönetimi ve veri analizinde birinci sınıf bir programlama dili olara
 
 ----------------------------------------------------
 # Advanced Python
-
+----------------------------------------------------
 \*args, \**kwargs
 
 Closure
